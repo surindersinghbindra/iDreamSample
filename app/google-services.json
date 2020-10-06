@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264840052092",
+    "firebase_url": "https://idream-3aa54.firebaseio.com",
+    "project_id": "idream-3aa54",
+    "storage_bucket": "idream-3aa54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264840052092:android:e31b5a45533f35556278f9",
+        "android_client_info": {
+          "package_name": "com.idream.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264840052092-ng6i5kp65o402fqmuiqcsbsfcvmhphoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idream.task",
+            "certificate_hash": "2a746e102f1cfd416cda0326146d028c2ed2675c"
+          }
+        },
+        {
+          "client_id": "264840052092-9s6f3l9e3ge4ddcjpqne8v2t1gb853is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3GKyUm5tWKl87EmCWklQ7oWUhmRF9Wio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264840052092-9s6f3l9e3ge4ddcjpqne8v2t1gb853is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
